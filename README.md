@@ -48,5 +48,3 @@ A self-directed project to organize GRC concepts into a working reference format
 | LetsDefend | Blue-team / defensive scenarios |
 | Cybrary | Supplementary coursework |
 
----
-Last updated September 2026
