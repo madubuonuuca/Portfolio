@@ -5,7 +5,7 @@ Lagos, Nigeria · madubuonuchisom@gmail.com
 
 ## About
 
-I'm training in ICDFA's Cohort 11 CGRCE programme, working through GRC frameworks, Linux systems, and cloud fundamentals from the ground up. Most of what's below comes from that programme — assignments I wrote for a company I built for the coursework, labs I ran myself, and a project I started outside of what was asked. I'm looking for a place to apply this to a real system rather than a hypothetical one.
+I'm training in ICDFA's Cohort 11 CGRCE programme, working through GRC frameworks, Linux systems, and cloud fundamentals from the ground up. Most of what's below comes from that programme, assignments I wrote for a company I built for the coursework, labs I ran myself, and a project I started outside of what was asked. I'm looking for a place to apply this to a real system rather than a hypothetical one.
 
 ## Applied Work
 
@@ -19,7 +19,7 @@ Wrote a full risk and compliance assessment for a fictional digital learning com
 ### Linux Troubleshooting Labs
 *ICDFA Coursework · 2 labs*
 
-Two lab exercises covering command-line navigation, file system operations, and diagnosing system-level issues — the same category of problem this ICT support role would involve day to day.
+Two lab exercises covering command-line navigation, file system operations, and diagnosing system-level issues, the same category of problem this ICT support role would involve day to day.
 
 `Linux` `Command Line` `Troubleshooting`
 
